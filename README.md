@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KetKode
+- 👋 Hi, I’m Nastya
 - 👀 I’m interested in cats and code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything!
