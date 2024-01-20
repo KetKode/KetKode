@@ -19,13 +19,6 @@
 
 <br/>
 
-- 📖 I'm learning by myself and at:
-
-<div style="display: inline-block;">
-
-  <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
-  <img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-
 </div>
 
 
