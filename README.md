@@ -39,7 +39,7 @@ DATABASES
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,15 +60,15 @@ Sunday                   1470 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-PyCharm                  7 hrs 15 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-integral                 5 hrs 18 mins       ██████████████████░░░░░░░   72.96 % 
-wibd                     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+integral                 2 hrs 15 mins       █████████████░░░░░░░░░░░░   53.48 % 
+wibd                     1 hr 57 mins        ████████████░░░░░░░░░░░░░   46.52 % 
 ```
 
 
- Last Updated on 03/09/2024 18:41:19 UTC
+ Last Updated on 04/09/2024 18:40:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
