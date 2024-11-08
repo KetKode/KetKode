@@ -1,7 +1,5 @@
 ## Anastasia Vakhrusheva / Python Developer
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KetKode&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
-
 ## **💻 Tech stack:**
 
 <div style="display: inline-block;">
@@ -37,39 +35,5 @@ DATABASES
 </div>
                     
 <br/>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%205%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Wednesday                733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Thursday                 798 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Friday                   770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Saturday                 940 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   1175 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-PyCharm                  8 hrs 6 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-integral                 5 hrs 57 mins       ██████████████████░░░░░░░   73.44 % 
-wibd                     2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-copingcards              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-```
-
-
- Last Updated on 30/09/2024 18:43:56 UTC
-<!--END_SECTION:waka-->
 
 </div>
